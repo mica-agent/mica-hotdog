@@ -1,7 +1,7 @@
 # Hot Dog Detector
 
 A canvas card that lets you upload or snap a photo and tells you whether it's a **Hot Dog** or **Not Hot Dog** — along with a humorous explanation from the local vision LLM.
-
+<img width="3200" height="2444" alt="hotdog" src="https://github.com/user-attachments/assets/330c55fa-860d-474e-9767-604452be35de" />
 ## Usage
 
 1. Open the **Hot Dog Detector** card on the canvas.
